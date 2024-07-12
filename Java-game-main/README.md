@@ -1,5 +1,5 @@
 # Java-game
-Contributors: Chanez A, Alex B, Matthias B, Jeremy D, Rayan Z.
+Contributors: Rayan Z, Chanez A, Alex B, Matthias B, Jeremy D.
 
 This is a project that mimics Sokoban, a game created by Hiroyuki Imabayashi in 1981.
 
